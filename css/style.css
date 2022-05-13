@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+
+.spark {
+    display: flex;
+}
+
+img {
+    max-width: 300px;
+    margin: auto;
+
